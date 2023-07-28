@@ -7,7 +7,7 @@ Things that might be interesting:
 - Scaling data infrastructure that leverages Iceberg
 - Running maintenace jobs such as compaction, snapshots/manifest deletion, etc.
 
-## Insider Engineering
-How We Migrated Our Data Lake to Apache Iceberg[https://medium.com/insiderengineering/how-we-migrated-our-production-data-lake-to-apache-iceberg-4d6892eca6e6]
+## Insider Engineering:
+- How We Migrated Our Data Lake to Apache Iceberg[https://medium.com/insiderengineering/how-we-migrated-our-production-data-lake-to-apache-iceberg-4d6892eca6e6]
 
 
