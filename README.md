@@ -30,7 +30,7 @@ Things that might be interesting:
 - [Lessons Learned From Running Apache Iceberg at Petabyte Scale](https://youtu.be/5RJrqS8_u68)
 - [Tame the small files problem and optimize data layout for streaming ingestion to Iceberg](https://www.youtube.com/watch?v=GJplmOO7ULA)
 - [LakeHouse: Smart Iceberg Table Optimizer](https://www.youtube.com/watch?v=r7KJf8F585Q)
-- []
+- [Streaming from Apache Iceberg](https://speakerdeck.com/stevenz3wu/streaming-from-apache-iceberg-qcon-ny-2023)
 
 ## Tencent:
 - [Flink + Iceberg: How to Construct a Whole-scenario Real-time Data Warehouse](https://www.alibabacloud.com/blog/flink-%2B-iceberg-how-to-construct-a-whole-scenario-real-time-data-warehouse_597824)
