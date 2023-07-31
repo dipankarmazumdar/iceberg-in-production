@@ -3,7 +3,7 @@
 ![derek-oyen-4ReskwNsh68-unsplash](https://github.com/dipankarmazumdar/iceberg-in-production/assets/103004148/e0ea5bc7-0dc0-400b-9392-ee31c394b729)
 
 
-Things that might be interesting:
+Things that might be interesting to learn about:
 - Choosing Apache Iceberg as the table format
 - Migrating large volumes of data from Hive or other data sources to Iceberg
 - Reducing compute and storage costs by using Iceberg
