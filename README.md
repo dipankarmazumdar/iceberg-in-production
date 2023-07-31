@@ -26,7 +26,15 @@ Things that might be interesting:
 
 ## Apple:
 - [Lessons Learned From Running Apache Iceberg at Petabyte Scale](https://youtu.be/5RJrqS8_u68)
+- [Tame the small files problem and optimize data layout for streaming ingestion to Iceberg](https://www.youtube.com/watch?v=GJplmOO7ULA)
+- [LakeHouse: Smart Iceberg Table Optimizer](https://www.youtube.com/watch?v=r7KJf8F585Q)
 
 ## Tencent:
 - [Flink + Iceberg: How to Construct a Whole-scenario Real-time Data Warehouse](https://www.alibabacloud.com/blog/flink-%2B-iceberg-how-to-construct-a-whole-scenario-real-time-data-warehouse_597824)
+
+## Dremio:
+- [Partition and File Pruning for Dremio’s Apache Iceberg-backed Reflections](https://www.youtube.com/watch?v=K81CybjU4G8)
+
+## Shopify:
+- [Rewriting History: Migrating Petabytes of Data to Apache Iceberg using Trino](https://www.youtube.com/watch?v=_b80wn1Fc_4)
 
